@@ -1,2 +1,2 @@
-# itom-tools
-public tools for itom project
+# aiops-accelerate-tools
+public tools for IBM AIops accelerate project
