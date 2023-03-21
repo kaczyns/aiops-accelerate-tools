@@ -1,0 +1,59 @@
+html,
+body {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+}
+.header {
+  background: black;
+  color: #ffffff;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.header-company-name {
+  margin-left: 1rem;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.header-product-name {
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+  }
+
+.title {
+  background: white;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+}
+
+.title-text {
+  margin-left: 2rem;
+  font-size: 32px;
+}
+
+.status {
+    background: white;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.status-text {
+    padding-top: 12px;
+    font-size: 24px;
+}
+
+.upcoming-maintenance {
+    background: white;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.upcoming-maintenance-text {
+    padding-top: 12px;
+    font-size: 24px;
+}
